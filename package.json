@@ -2,11 +2,11 @@
   "name": "angular-new-router",
   "version": "0.5.3",
   "description": "A new router for both Angular 1 and Angular 2",
-  "homepage": "https://github.com/angular/router",
+  "homepage": "https://github.com/excellalabs/router",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/angular/router.git"
+    "url": "git://github.com/excellalabs/router.git"
   },
   "bugs": {
     "url": "https://github.com/angular/router/issues"
