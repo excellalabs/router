@@ -3,6 +3,9 @@
 
 A new router for Angular 1.5 and 2.0, written with [TypeScript](http://www.typescriptlang.org/).
 
+NOTE: The dist output was compiled from commit 870aa3f6
+
+
 ## State of this project
 
 For now, the code has been moved to [angular/angular](https://github.com/angular/angular).

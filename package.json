@@ -1,6 +1,6 @@
 {
   "name": "angular-new-router-latest",
-  "version": "0.5.4",
+  "version": "0.6.0",
   "description": "A new router for both Angular 1 and Angular 2",
   "homepage": "https://github.com/excellalabs/router",
   "main": "index.js",

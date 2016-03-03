@@ -102,6 +102,10 @@ function routerFactory($$rootRouter, $rootScope, $location, $$grammar, $controll
   $$rootRouter.navigate = function (url) {
     return nav.call(this, url).then(function (newUrl) {
       if (newUrl) {
+        var hashStart = newUrl.indexOf('#');
+        if(hashStart >= 0){
+          newUrl = newUrl.substring(hashStart + 1);
+        }
         $location.path(newUrl);
       }
     });
